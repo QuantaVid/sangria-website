@@ -2,3 +2,11 @@
     font-family: "Didot-HTF-B06-Bold";
    }
    
+   .App {
+       height: 100vh;
+       display: flex;
+       flex-direction: column;
+   }
+   .pages {
+       flex: 1;
+   }

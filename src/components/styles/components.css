@@ -2,11 +2,10 @@
 
 /* Landing Page styles */
 .landinPage__container {
-    height: 92vh;
+    height: 90vh;
     padding: 0 25rem;
     display: flex;
     flex-direction: column;
-    position: relative;
 }
 
 .landingPage__top {
@@ -137,9 +136,84 @@
     }
 }
 
+@media only screen 
+  and (min-width: 1024px) 
+  and (max-height: 1366px) 
+  and (orientation: portrait) 
+  and (-webkit-min-device-pixel-ratio: 1.5) {
+      .landinPage__container {
+          padding: 0 5rem;
+      }
+      .landingPage__top {
+          flex-direction: column;
+          justify-content: center;
+          text-align: center;
+      }
+      .content {
+          justify-content:center;
+          align-items: center;
+      }
+      .logo{
+          padding: 2rem 0;
+      }
+      .landingPage__logo {
+          margin-right: 0;
+      }
+      .footer__left span {
+          font-size: 1.4rem
+      }
+      .footer__right {
+          font-size:1.4rem
+      }
+}
+
+@media only screen 
+  and (min-width: 1024px) 
+  and (max-height: 1366px) 
+  and (orientation: landscape) 
+  and (-webkit-min-device-pixel-ratio: 1.5) {
+    .landinPage__container {
+        padding: 0 10rem;
+    }
+}
+
+@media all and (device-width: 768px) and (device-height: 1024px) and (orientation:portrait) {
+    .landinPage__container {
+        flex: 1;
+        height: max-content;
+        padding-top: 5rem;
+    }
+    .content h1 {
+        font-size: 3rem;
+    }
+    .content button {
+        width: 40%;
+    }
+    .logo {
+        margin-bottom: 5rem;
+    }
+  }
+
+  @media all and (device-width: 1024px) and (device-height: 768px) and (orientation:landscape) {
+    .landinPage__container {
+        padding: 0 10rem;
+    }
+    .content h1 {
+        font-size: 3rem;
+    }
+    #description {
+        font-size: 1.1rem;
+    }
+    .content button {
+        width: 90%;
+    }
+    .content button span {
+        font-size: 1.2rem;
+    }
+  }
 
 .footer__main {
-    height: 8vh;
+    height: 10vh;
     width: 100%;
     background-color: #000;
     display: flex;
@@ -166,7 +240,8 @@
 @media screen and (max-width: 768px) {
     .footer__main {
         height:15vh;
-        flex-direction: column
+        flex-direction: column;
+        padding: 0.5rem 0;
     }
     .footer__left span {
         font-size: 1rem;
