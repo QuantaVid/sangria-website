@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/sangria-website/static/css/main.cc34b1b0.chunk.css",
-    "main.js": "/sangria-website/static/js/main.22fb1635.chunk.js",
-    "main.js.map": "/sangria-website/static/js/main.22fb1635.chunk.js.map",
-    "runtime-main.js": "/sangria-website/static/js/runtime-main.32a4e307.js",
-    "runtime-main.js.map": "/sangria-website/static/js/runtime-main.32a4e307.js.map",
-    "static/css/2.b57b7cfd.chunk.css": "/sangria-website/static/css/2.b57b7cfd.chunk.css",
-    "static/js/2.116ebf1c.chunk.js": "/sangria-website/static/js/2.116ebf1c.chunk.js",
-    "static/js/2.116ebf1c.chunk.js.map": "/sangria-website/static/js/2.116ebf1c.chunk.js.map",
-    "static/js/3.2e543c2b.chunk.js": "/sangria-website/static/js/3.2e543c2b.chunk.js",
-    "static/js/3.2e543c2b.chunk.js.map": "/sangria-website/static/js/3.2e543c2b.chunk.js.map",
-    "index.html": "/sangria-website/index.html",
-    "static/css/2.b57b7cfd.chunk.css.map": "/sangria-website/static/css/2.b57b7cfd.chunk.css.map",
-    "static/css/main.cc34b1b0.chunk.css.map": "/sangria-website/static/css/main.cc34b1b0.chunk.css.map",
-    "static/js/2.116ebf1c.chunk.js.LICENSE.txt": "/sangria-website/static/js/2.116ebf1c.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/sangria-website/static/media/Didot-HTF-B06-Bold.524d2c5d.ttf",
-    "static/media/playstore.23f63066.png": "/sangria-website/static/media/playstore.23f63066.png",
-    "static/media/sangria.ceebd84b.svg": "/sangria-website/static/media/sangria.ceebd84b.svg"
+    "main.css": "/static/css/main.2219d556.chunk.css",
+    "main.js": "/static/js/main.22fb1635.chunk.js",
+    "main.js.map": "/static/js/main.22fb1635.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f8922d47.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f8922d47.js.map",
+    "static/css/2.b57b7cfd.chunk.css": "/static/css/2.b57b7cfd.chunk.css",
+    "static/js/2.116ebf1c.chunk.js": "/static/js/2.116ebf1c.chunk.js",
+    "static/js/2.116ebf1c.chunk.js.map": "/static/js/2.116ebf1c.chunk.js.map",
+    "static/js/3.2e543c2b.chunk.js": "/static/js/3.2e543c2b.chunk.js",
+    "static/js/3.2e543c2b.chunk.js.map": "/static/js/3.2e543c2b.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.b57b7cfd.chunk.css.map": "/static/css/2.b57b7cfd.chunk.css.map",
+    "static/css/main.2219d556.chunk.css.map": "/static/css/main.2219d556.chunk.css.map",
+    "static/js/2.116ebf1c.chunk.js.LICENSE.txt": "/static/js/2.116ebf1c.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Didot-HTF-B06-Bold.524d2c5d.ttf",
+    "static/media/playstore.23f63066.png": "/static/media/playstore.23f63066.png",
+    "static/media/sangria.ceebd84b.svg": "/static/media/sangria.ceebd84b.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.32a4e307.js",
+    "static/js/runtime-main.f8922d47.js",
     "static/css/2.b57b7cfd.chunk.css",
     "static/js/2.116ebf1c.chunk.js",
-    "static/css/main.cc34b1b0.chunk.css",
+    "static/css/main.2219d556.chunk.css",
     "static/js/main.22fb1635.chunk.js"
   ]
 }
