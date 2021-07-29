@@ -4,7 +4,7 @@ import '../styles/components.css';
 const Terms = () => {
     return (
         <div className="terms__container">
-            <div class="page__content">
+            <div className="page__content">
                 <h1>Terms of Service</h1>
 				<p>
 					Please read the following terms of service ("Agreement" or "Terms of Service") before you install the
@@ -322,7 +322,7 @@ const Terms = () => {
                     <br />
                     <br />
                     WE EACH AGREE THAT ANY DISPUTE RESOLUTION PROCEEDINGS WILL BE CONDUCTED ONLY ON AN
-                    INDIVIDUAL BASIS AND NOT IN A CLASS, CONSOLIDATED OR REPRESENTATIVE ACTION. IF FOR ANY
+                    INDIVIDUAL BASIS AND NOT IN A className, CONSOLIDATED OR REPRESENTATIVE ACTION. IF FOR ANY
                     REASON A CLAIM PROCEEDS IN COURT RATHER THAN IN ARBITRATION, WE EACH WAIVE ANY RIGHT
                     TO A JURY TRIAL.
 				</p>
