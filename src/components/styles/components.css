@@ -2,7 +2,7 @@
 
 /* Landing Page styles */
 .landinPage__container {
-    height: 90vh;
+    /* height: 90vh; */
     padding: 0 25rem;
     display: flex;
     flex-direction: column;
@@ -12,6 +12,7 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
+    padding-bottom: 1rem;
 }
 
 .content {
@@ -76,14 +77,6 @@
     position: absolute;
     right: 0;
     top: 40px;
-}
-
-.footer {
-    position: absolute;
-    bottom: 10px;
-    display: flex;
-    justify-content: space-between;
-    width: 50%;
 }
 
 .footer span a {
