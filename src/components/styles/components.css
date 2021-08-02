@@ -3,7 +3,7 @@
 /* Landing Page styles */
 .landinPage__container {
     /* height: 90vh; */
-    padding: 0 25rem;
+    padding: 0 10rem;
     display: flex;
     flex-direction: column;
 }
@@ -61,11 +61,11 @@
 }
 
 .landingPage__logo {
-    width: 300px;
-    background-color: #fff;
+    width: 100%;
     margin-right: 4rem;
     border-radius: 20px;
-    height: 300px;
+    height: 100%;
+    padding-top: 10rem;
 }
 
 .landingPage__bottom {
@@ -100,10 +100,11 @@
         text-align: center;
     }
     .landingPage__logo {
-        width: 150px;
-        height: 150px;
+        width: 20rem;
+        height: 10rem;
         align-self: center;
         margin-right: 0;
+        padding-top: 0;
     }
     .content {
         justify-content: center;
@@ -147,12 +148,20 @@
     .logo {
         margin-bottom: 5rem;
     }
+    .landingPage__logo {
+        width: 40rem;
+        height: 25rem;
+        padding-top: 0;
+    }
   }
 
   @media all and (device-width: 1024px) and (device-height: 768px) and (orientation:landscape) {
     .landinPage__container {
-        padding: 0 10rem;
+        padding: 2rem !important;
     }
+      .content {
+          width: 60%;
+      }
     .content h1 {
         font-size: 3rem;
     }
@@ -164,6 +173,11 @@
     }
     .content button span {
         font-size: 1.2rem;
+    }
+    .landingPage__logo {
+        width: 30rem;
+        height: 20rem;
+        margin-right: 0;
     }
   }
 
@@ -251,10 +265,14 @@
   and (orientation: landscape) 
   and (-webkit-min-device-pixel-ratio: 1.5) {
     .landinPage__container {
-        padding: 0 10rem;
+        padding: 0 5rem;
     }
     .privacy__container, .terms__container {
         padding: 1rem 5rem;
+    }
+    .landingPage__logo {
+        width: 40rem;
+        height: 25rem;
     }
 }
 

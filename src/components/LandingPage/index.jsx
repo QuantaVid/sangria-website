@@ -1,6 +1,6 @@
 import React from 'react';
 import '../styles/components.css';
-import logo from '../assets/sangria.svg';
+import logo from '../assets/Wb_banner-01.png';
 import 'react-slideshow-image/dist/styles.css'
 import playstoreLogo from '../assets/playstore.png';
 
