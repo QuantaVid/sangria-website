@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.978f8576.chunk.css",
+    "main.js": "/static/js/main.ce22c323.chunk.js",
+    "main.js.map": "/static/js/main.ce22c323.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f8922d47.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f8922d47.js.map",
+    "static/css/2.b57b7cfd.chunk.css": "/static/css/2.b57b7cfd.chunk.css",
+    "static/js/2.116ebf1c.chunk.js": "/static/js/2.116ebf1c.chunk.js",
+    "static/js/2.116ebf1c.chunk.js.map": "/static/js/2.116ebf1c.chunk.js.map",
+    "static/js/3.2e543c2b.chunk.js": "/static/js/3.2e543c2b.chunk.js",
+    "static/js/3.2e543c2b.chunk.js.map": "/static/js/3.2e543c2b.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.b57b7cfd.chunk.css.map": "/static/css/2.b57b7cfd.chunk.css.map",
+    "static/css/main.978f8576.chunk.css.map": "/static/css/main.978f8576.chunk.css.map",
+    "static/js/2.116ebf1c.chunk.js.LICENSE.txt": "/static/js/2.116ebf1c.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Didot-HTF-B06-Bold.524d2c5d.ttf",
+    "static/media/Wb_banner-01.744b3d1f.png": "/static/media/Wb_banner-01.744b3d1f.png",
+    "static/media/playstore.23f63066.png": "/static/media/playstore.23f63066.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f8922d47.js",
+    "static/css/2.b57b7cfd.chunk.css",
+    "static/js/2.116ebf1c.chunk.js",
+    "static/css/main.978f8576.chunk.css",
+    "static/js/main.ce22c323.chunk.js"
+  ]
+}

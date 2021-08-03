@@ -13,19 +13,21 @@ const LandingPage = () => {
                 <div className="content">
                     <h1 className="font-face-gm">Sangria App</h1>
                     <span id="description">
-                    Sangria App lets you explore the world business and technology news in a fun and easy way. 
-                    Content on Sangria has been carefully selected and crafted to serve you better. What are you waiting for? Explore the world with Sangria.
+                        Sangria App lets you explore the world business and technology news in a fun and easy way.
+                        Content on Sangria has been carefully selected and crafted to serve you better. What are you waiting for? Explore the world with Sangria.
                     </span>
+                    <a href="https://play.google.com/store/apps/details?id=com.sangria" target="_blank" rel="noreferrer">
                     <button>
                         <img src={playstoreLogo} alt="Google Playstore Logo" id="playstoreLogo" />
                         <span>Get it on google play</span>
                     </button>
-                </div>
-                <div className="logo">
-                    <img src={logo} alt="Sangria app logo" className="landingPage__logo" />
-                </div>
+                    </a>
+            </div>
+            <div className="logo">
+                <img src={logo} alt="Sangria app logo" className="landingPage__logo" />
             </div>
         </div>
+        </div >
     )
 }
 
